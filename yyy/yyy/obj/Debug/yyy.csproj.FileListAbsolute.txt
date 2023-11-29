@@ -1,6 +1,0 @@
-C:\Isaeva_225_1\yyy\yyy\obj\Debug\yyy.csproj.AssemblyReference.cache
-C:\Isaeva_225_1\yyy\yyy\obj\Debug\MainWindow.g.cs
-C:\Isaeva_225_1\yyy\yyy\obj\Debug\Page1.g.cs
-C:\Isaeva_225_1\yyy\yyy\obj\Debug\App.g.cs
-C:\Isaeva_225_1\yyy\yyy\obj\Debug\yyy_MarkupCompile.cache
-C:\Isaeva_225_1\yyy\yyy\obj\Debug\yyy_MarkupCompile.lref

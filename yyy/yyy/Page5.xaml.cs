@@ -16,23 +16,13 @@ using System.Windows.Shapes;
 namespace yyy
 {
     /// <summary>
-    /// Логика взаимодействия для Page2.xaml
+    /// Логика взаимодействия для Page5.xaml
     /// </summary>
-    public partial class Page2 : Page
+    public partial class Page5 : Page
     {
-        public Page2()
+        public Page5()
         {
             InitializeComponent();
-        }
-
-        private void ButtonP_Click(object sender, RoutedEventArgs e)
-        {
-            this.NavigationService.Navigate(new Page3());
-        }
-
-        private void ButtonNew_Click(object sender, RoutedEventArgs e)
-        {
-            this.NavigationService.Navigate(new Page4());
         }
     }
 }
